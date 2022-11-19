@@ -1,1 +1,8 @@
-This file is just for test
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+    return 0;
+}
+
